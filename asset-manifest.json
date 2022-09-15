@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-advanced-rtk/static/css/main.8e14593a.css",
+    "main.js": "/react-advanced-rtk/static/js/main.0f871768.js",
+    "index.html": "/react-advanced-rtk/index.html",
+    "main.8e14593a.css.map": "/react-advanced-rtk/static/css/main.8e14593a.css.map",
+    "main.0f871768.js.map": "/react-advanced-rtk/static/js/main.0f871768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e14593a.css",
+    "static/js/main.0f871768.js"
+  ]
+}
