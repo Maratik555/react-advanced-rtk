@@ -6,7 +6,7 @@ export function FavouritesPage() {
     const {favourites} = useAppSelector(state => state.github)
 
     return (
-        <div className='flex justify-center pt-20'>
+        <div className='flex justify-center pt-20 h-screen'>
             <ul className='list-none'>
                 {favourites.map(f => (
                     <li key={f}>
